@@ -1,7 +1,7 @@
 # Calculator
 Simple calculator mobile app created with flutter which performs basic arithmetic operations.
 
-![Calculator](./mob.PNG =100x20)
+<img src="https://user-images.githubusercontent.com/mob.PNG" width="100" />
 
 ## Setup
 `cd calculator`
